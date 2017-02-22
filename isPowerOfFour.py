@@ -10,7 +10,7 @@
 '''
 def isPowerOfFour(self, num):
         """
-aGiven an integer (signed 32 bits), write a function to check whether it is a power of 4.
+        Given an integer (signed 32 bits), write a function to check whether it is a power of 4.
         :type num: int
         :rtype: bool
         """
